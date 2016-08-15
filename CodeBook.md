@@ -11,11 +11,17 @@ The tidy dataset as the question asks.
 
 ##Columns
 *ActivityLabel: Group of activies
+
 *Subject: Group of Subjects
+
 *TimeBodyAcceleration-Mean-x 
+
 *TimeBodyAcceleration-Mean-y
+
 *TimeBodyAcceleration-Mean-z
+
 *TimeBodyAcceleration-STD-x
+
 *TimeBodyAcceleration-STD-y
 *TimeBodyAcceleration-STD-z
 *TimeGravityAcceleration-Mean-x
